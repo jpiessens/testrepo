@@ -1,2 +1,2 @@
-new line here
+new line replaced
 add some cool stuff
